@@ -1,9 +1,4 @@
-1
 
-2
 
-3
 
-4우하하하하
-
-5 tnwjdsodyddlqslekkk
+<img src="https://img.shields.io/badge/python-#3776AB?style=flat-square&logo=python&logoColor=white"/>
