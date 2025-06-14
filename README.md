@@ -1,9 +1,6 @@
 
 # 👐 Jane Lee, junior developer
 
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FMunGyeong-Lee&count_bg=%2373899C&title_bg=%2373899C&icon=github.svg&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
-
-[Jane's GitHub stats](https://github-readme-stats.vercel.app/api?username=MunGyeong-Lee&show_icons=true&theme=panda)
 
 #  💪 Skills
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
